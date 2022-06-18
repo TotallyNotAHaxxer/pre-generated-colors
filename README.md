@@ -88,3 +88,9 @@ int main() {
 
 }
 ```
+
+# current language support from the generator
+
+> C++
+> C
+> ruby
