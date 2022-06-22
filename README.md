@@ -95,7 +95,7 @@ int main() {
 ```rb
 require_relative 'color.rb'
 
-puts Colors::DNUJCFXC, "HEY GUYS!" // outputs deep purple color
+puts Colors::DNUJCFXC, "HEY GUYS!" # outputs deep purple color
 
 ```
 
