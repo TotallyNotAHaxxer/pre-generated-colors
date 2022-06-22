@@ -89,6 +89,16 @@ int main() {
 }
 ```
 
+
+`example usage ruby`
+
+```rb
+require_relative 'color.rb'
+
+puts Colors::DNUJCFXC, "HEY GUYS!" // outputs deep purple color
+
+```
+
 # current language support from the generator
 
 > C++
