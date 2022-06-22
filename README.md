@@ -101,8 +101,17 @@ puts Colors::DNUJCFXC, "HEY GUYS!" # outputs deep purple color
 
 # current language support from the generator
 
-> C++
-
-> C
-
-> ruby
+| Language | Supported | 
+| -------- | --------- |
+| C++      | Yes       |
+| C        | Yes       |
+| Ruby     | Yes       |
+| Perl1-3  | No        |
+| Perl5    | No        |
+| Raku     | No        |
+| Golang   | No        |
+| Fortran  | No        |
+| Crystal  | No        |
+| C-Sharp  | No        |
+| Js       | No        |
+| Java     | No        |
