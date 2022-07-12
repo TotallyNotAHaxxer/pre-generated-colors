@@ -109,7 +109,7 @@ puts Colors::DNUJCFXC, "HEY GUYS!" # outputs deep purple color
 | Perl1-3  | No        |
 | Perl5    | No        |
 | Raku     | No        |
-| Golang   | No        |
+| Golang   | Yes       |
 | Fortran  | No        |
 | Crystal  | No        |
 | C-Sharp  | No        |
